@@ -1,0 +1,6 @@
+# Windows / editor cruft
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
+.DS_Store
